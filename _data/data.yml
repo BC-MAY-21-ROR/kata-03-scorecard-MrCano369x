@@ -58,7 +58,7 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
- - role: Full Stack Developer
+  - role: Full Stack Developer
     time: 2021 Aug - 2021 Nov
     company: Universidad de Colima
     details: |
