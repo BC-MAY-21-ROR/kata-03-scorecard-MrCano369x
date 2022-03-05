@@ -19,7 +19,7 @@ sidebar:
   github: brightcoders
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: "@BrightCoders"
   stack-overflow: 17526992/mrcano369x # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -47,7 +47,10 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I love programming since I met her, more than 4 years ago. 
+    My favorite language is javascript, because it is a super flexible language like a plasticine with which you can play whenever and wherever you want. 
+    I program as a hobby, but when I come up with a good idea to implement, I spend a lot of time on it. 
+    I like a lot to learn but also to teach.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
